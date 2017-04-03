@@ -1,0 +1,6 @@
+{
+  "projects": [ "src", "test", "../SmSimple.Core/src", "../SmValidation.Core/src" ],
+  "sdk": {
+    "version": "1.0.0-preview2-003131"
+  }
+}

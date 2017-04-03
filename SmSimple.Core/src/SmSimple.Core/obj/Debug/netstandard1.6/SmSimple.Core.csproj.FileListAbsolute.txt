@@ -1,0 +1,13 @@
+C:\c\tutorial\core\sm\SmSimple.Core\src\SmSimple.Core\bin\Debug\netstandard1.6\SmSimple.Core.deps.json
+C:\c\tutorial\core\sm\SmSimple.Core\src\SmSimple.Core\bin\Debug\netstandard1.6\SmSimple.Core.dll
+C:\c\tutorial\core\sm\SmSimple.Core\src\SmSimple.Core\bin\Debug\netstandard1.6\SmSimple.Core.pdb
+C:\c\tutorial\core\sm\SmSimple.Core\src\SmSimple.Core\obj\Debug\netstandard1.6\SmSimple.Core.AssemblyInfo.cs
+C:\c\tutorial\core\sm\SmSimple.Core\src\SmSimple.Core\obj\Debug\netstandard1.6\SmSimple.Core.dll
+C:\c\tutorial\core\sm\SmSimple.Core\src\SmSimple.Core\obj\Debug\netstandard1.6\SmSimple.Core.pdb
+C:\c\work\trunk\core\sm\SmSimple.Core\src\SmSimple.Core\bin\Debug\netstandard1.6\SmSimple.Core.deps.json
+C:\c\work\trunk\core\sm\SmSimple.Core\src\SmSimple.Core\bin\Debug\netstandard1.6\SmSimple.Core.dll
+C:\c\work\trunk\core\sm\SmSimple.Core\src\SmSimple.Core\bin\Debug\netstandard1.6\SmSimple.Core.pdb
+C:\c\work\trunk\core\sm\SmSimple.Core\src\SmSimple.Core\obj\Debug\netstandard1.6\SmSimple.Core.AssemblyInfo.cs
+C:\c\work\trunk\core\sm\SmSimple.Core\src\SmSimple.Core\obj\Debug\netstandard1.6\SmSimple.Core.dll
+C:\c\work\trunk\core\sm\SmSimple.Core\src\SmSimple.Core\obj\Debug\netstandard1.6\SmSimple.Core.pdb
+C:\c\work\trunk\core\sm\SmSimple.Core\src\SmSimple.Core\obj\Debug\netstandard1.6\SmSimple.Core.csprojResolveAssemblyReference.cache

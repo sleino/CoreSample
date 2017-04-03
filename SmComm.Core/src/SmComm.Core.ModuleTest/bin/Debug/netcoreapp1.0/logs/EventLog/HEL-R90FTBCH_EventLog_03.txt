@@ -1,0 +1,17 @@
+2017-02-03 09:21:19.156	Compilation date: 2000-01-01 00:00:00
+2017-02-03 09:21:19.156	Stopping socket server at 127.0.0.1:10095
+2017-02-03 09:21:47.578	Error in parsing station name Station name not found 1  Message start:
+2017-02-03 09:21:47.581	Error in parsing message 
+2017-02-03 09:21:47.587	Error in parsing 250000 Data value is missing in after token: 250000:
+2017-02-03 09:21:47.592	Error in parsing station name Station name not found 1  Message start:
+2017-02-03 09:21:47.596	Error in parsing message 
+2017-02-03 09:21:47.599	Error in parsing station name Station indicator 'S' not found 3 
+2017-02-03 09:21:47.602	Error in parsing message 
+2017-02-03 09:21:47.605	Error in parsing station name Station name not found
+2017-02-03 09:21:47.608	Error in parsing message 
+2017-02-03 09:21:47.612	Error in parsing date Date token 'D' not found. Following character was detected:T
+2017-02-03 09:21:47.616	Error in parsing message 
+2017-02-03 09:21:47.620	Error in parsing time Time token (T:) not found.
+2017-02-03 09:21:47.624	Error in parsing message 
+2017-02-03 09:21:47.627	Error in parsing date Date token 'D'  not found.
+2017-02-03 09:21:47.630	Error in parsing message 

@@ -1,0 +1,24 @@
+﻿2017-01-17 13:42:47.382	Stopping socket server at 127.0.0.1:10095
+Cannot access a disposed object.
+Object name: 'System.Net.Sockets.NetworkStream'.
+e remote host.. 
+Error while writing 1ABC to 127.0.0.1
+	Exception in TcpIpClient HasDataAvailable :Cannot access a disposed object.
+Object name: 'System.Net.Sockets.NetworkStream'.	 GetStack is Unimplemented
+
+
+   at System.Environment.GetStackTrace(Exception e, Boolean needFileInfo)
+   at System.Environment.get_StackTrace()
+   at System.Diagnostics.Debug.Assert(Boolean condition, String message, String detailMessage)
+   at System.Diagnostics.Debug.Assert(Boolean condition, String message)
+   at SmSimple.Core.ExceptionRecorder.ProcessException(String s)
+   at SmSimple.Core.ExceptionRecorder.RecordException(String s)
+   at SmComm.Core.IO.VaiTcpIpClient.HasDataAvailable()
+   at SmComm.Core.IO.VaiListener.Listen()
+   at SmComm.Core.IO.VaiListener.StartListening()
+   at SmComm.Core.ModuleTest.IO.TFVaiTcpIpServer.<>c__DisplayClass6_0.<CheckForClientsAsync>b__0()
+   at System.Threading.Tasks.Task.Execute()
+   at System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.Threading.Tasks.Task.ExecuteWithThreadLocal(Task& currentTaskSlot)
+   at System.Threading.Tasks.Task.ExecuteEntry(Boolean bPreventDoubleExecution)
+   at System.Threading.ThreadPoolWorkQueue.Dispatch()

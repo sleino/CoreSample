@@ -1,0 +1,25 @@
+2010-01-01 13:00:00.000	Compilation date: 2000-01-01 00:00:00
+2010-01-01 13:00:00.000	Error in parsing station name Station name not found
+2010-01-01 13:00:00.000	Error in parsing message 
+2010-01-01 13:00:00.000	Error in parsing date Date token 'D' not found. Following character was detected:T
+2010-01-01 13:00:00.000	Error in parsing message 
+2010-01-01 13:00:00.000	Error in parsing time Time token (T:) not found.
+2010-01-01 13:00:00.000	Error in parsing message 
+2010-01-01 13:00:00.000	Error in parsing station name Station name not found 1  Message start:
+2010-01-01 13:00:00.000	Error in parsing message 
+2010-01-01 13:00:00.000	Error in parsing 250000 Data value is missing in after token: 250000:
+2010-01-01 13:00:00.000	Error in parsing station name Station name not found 1  Message start:
+2010-01-01 13:00:00.000	Error in parsing message 
+2010-01-01 13:00:00.000	Error in parsing station name Station indicator 'S' not found 3 
+2010-01-01 13:00:00.000	Error in parsing message 
+2010-01-01 13:00:00.000	Error in parsing station name Station name not found
+2010-01-01 13:00:00.000	Error in parsing message 
+2010-01-01 13:00:00.000	Error in parsing date Date token 'D' not found. Following character was detected:T
+2010-01-01 13:00:00.000	Error in parsing message 
+2010-01-01 13:00:00.000	Error in parsing time Time token (T:) not found.
+2010-01-01 13:00:00.000	Error in parsing message 
+2010-01-01 13:00:00.000	Error in parsing date Date token 'D'  not found.
+2010-01-01 13:00:00.000	Error in parsing message 
+2010-01-01 13:00:00.000	Stopping socket server at 127.0.0.1:10095
+2010-01-01 13:00:00.000	Write IO Error. - exception: Unable to write data to the transport connection: An established connection was aborted by the software in your host machine.. 
+Error while writing 2ABC to 127.0.0.1

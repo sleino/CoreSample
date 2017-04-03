@@ -1,0 +1,6 @@
+#:C:\c\work\trunk\core\sm\SmSimple.Core\src\SmSimple.Core\SmSimple.Core.xproj
+#:C:\c\work\trunk\core\sm\SmValidation.Core\src\SmValidation.Core\SmValidation.Core.xproj
+C:\c\work\trunk\core\sm\SmValidation.Core\src\SmValidation.Core\SmValidation.Core.xproj|C:\c\work\trunk\core\sm\SmSimple.Core\src\SmSimple.Core\SmSimple.Core.xproj
+#:C:\c\work\trunk\core\sm\SmValidation.Core\src\SmValidation.ModuleTest\SmValidation.Core.ModuleTest.xproj
+C:\c\work\trunk\core\sm\SmValidation.Core\src\SmValidation.ModuleTest\SmValidation.Core.ModuleTest.xproj|C:\c\work\trunk\core\sm\SmValidation.Core\src\SmValidation.Core\SmValidation.Core.xproj
+C:\c\work\trunk\core\sm\SmValidation.Core\src\SmValidation.Core\SmValidation.Core.xproj|C:\c\work\trunk\core\sm\SmSimple.Core\src\SmSimple.Core\SmSimple.Core.xproj

@@ -1,0 +1,1 @@
+<Playlist Version="1.0"><Add Test="SmValidation.Core.ModuleTest.TFValidation.TestContainsDecimalOrSlashes" /><Add Test="SmValidation.Core.ModuleTest.TFValidation.TestValidation" /></Playlist>
